@@ -1,5 +1,5 @@
 import os
 
 
-def start_django():
+def from_django():
     os.system("django-admin startproject config .")
