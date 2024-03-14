@@ -1,0 +1,7 @@
+setup.py
+venv
+templify.egg-info
+dist
+build
+.idea
+#.gitignore
