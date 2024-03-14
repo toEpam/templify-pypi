@@ -1,1 +1,1 @@
-from .main import start_django
+from .app import main
